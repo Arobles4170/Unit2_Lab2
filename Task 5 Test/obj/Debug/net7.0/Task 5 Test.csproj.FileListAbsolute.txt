@@ -1,0 +1,5 @@
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.csproj.AssemblyReference.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.AssemblyInfoInputs.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.AssemblyInfo.cs
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,18 @@
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.csproj.AssemblyReference.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.AssemblyInfoInputs.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.AssemblyInfo.cs
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.csproj.CoreCompileInputs.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/Task 5 Test
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/Task 5 Test.deps.json
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/Task 5 Test.runtimeconfig.json
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/Task 5 Test.dll
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/Task 5 Test.pdb
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/3330 Lab2.dll
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/bin/Debug/net7.0/3330 Lab2.pdb
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.csproj.CopyComplete
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.dll
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/refint/Task 5 Test.dll
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/Task 5 Test.pdb
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/TestTask.genruntimeconfig.cache
+/Users/angelrobles/Projects/3330 Lab2/Task 5 Test/obj/Debug/net7.0/ref/Task 5 Test.dll

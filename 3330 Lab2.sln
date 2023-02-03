@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5", "3330 Lab2\Task5.csproj", "{9B1285CE-699C-429C-AC22-F64615AF876E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "New Folder", "New Folder", "{D75ABE38-249D-43B3-B69C-670D09CA54D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask", "Task 5 Test\TestTask.csproj", "{95C9541D-DA14-4E9C-99C6-07F2AD327B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1285CE-699C-429C-AC22-F64615AF876E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1285CE-699C-429C-AC22-F64615AF876E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1285CE-699C-429C-AC22-F64615AF876E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1285CE-699C-429C-AC22-F64615AF876E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95C9541D-DA14-4E9C-99C6-07F2AD327B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C9541D-DA14-4E9C-99C6-07F2AD327B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C9541D-DA14-4E9C-99C6-07F2AD327B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C9541D-DA14-4E9C-99C6-07F2AD327B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5791C3A3-9A3F-465E-B226-08147713F792}
+	EndGlobalSection
+EndGlobal
